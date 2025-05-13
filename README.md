@@ -10,7 +10,7 @@ This project is a Generative Adversarial Network (GAN) that creates anime-style 
 
 ---
 
-<pre>
+
 ## 🗂️ Project Structure
 
 ```
@@ -25,7 +25,6 @@ Anime-GAN-App/
 ├── fake.png             # Sample output image
 └── README.md            # Project description and instructions
 ```
-</pre>
 
 ---
 
