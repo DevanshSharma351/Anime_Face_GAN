@@ -6,7 +6,7 @@ This project is a Generative Adversarial Network (GAN) that creates anime-style 
 
 ## 🚀 Live Demo
 
-👉 **Streamlit App:** *[Coming Soon – add your Streamlit Cloud link here]*
+👉 **Streamlit App:** *https://devanshsharma351-anime-gan-app.streamlit.app*
 
 ---
 
@@ -43,5 +43,8 @@ Anime-GAN-App/
 ## 🖼️ Generated Sample
 
 ![Generated Sample](/fake.png)
+
+## Author
+- **Devansh Sharma**
 
 ---
