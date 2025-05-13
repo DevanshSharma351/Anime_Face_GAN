@@ -10,18 +10,22 @@ This project is a Generative Adversarial Network (GAN) that creates anime-style 
 
 ---
 
+<pre>
 ## 🗂️ Project Structure
 
+```
 Anime-GAN-App/
-  -->app.py                # Streamlit web app to generate and display anime faces
-  -->gan.py                # Script to train the GAN model
-  -->test.py               # Script to test the generator and save sample images
-  -->requirements.txt      # List of dependencies
-  -->saved_model/
-        g_model.h5        # Trained generator model
-        d_model.h5        # Trained discriminator model
-  -->fake.png              # Sample output image
-  -->README.md             # Project description and instructions
+├── app.py               # Streamlit web app to generate and display anime faces
+├── gan.py               # Script to train the GAN model
+├── test.py              # Script to test the generator and save sample images
+├── requirements.txt     # List of dependencies
+├── saved_model/
+│   ├── g_model.h5       # Trained generator model
+│   └── d_model.h5       # Trained discriminator model
+├── fake.png             # Sample output image
+└── README.md            # Project description and instructions
+```
+</pre>
 
 ---
 
